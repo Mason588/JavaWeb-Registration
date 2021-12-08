@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\MyWeb2021(C)\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+453498552.index
+1759590581.index
+2921315682.index
+2241547147.index
+57359438.index
+660243561.index
+3586883894.index

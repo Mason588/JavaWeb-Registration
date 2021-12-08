@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="BIG5">
+<title>帥哥美女註冊</title>
+</head>
+<body>
+  <form action ="register method = "post" >
+  	<table>
+		<tr>
+			<td>使用者名稱:</td>
+			<td><input type="text" name ="username"/></td>
+		</tr>  
+		<tr>
+			<td>密碼:</td>
+			<td><input type="password" name ="passwd"/></td>
+		</tr>  
+		
+		<tr>
+			<td>Email:</td>
+			<td><input type="text" name ="email"/></td>
+		</tr>  
+		
+		<tr>
+			<td>縣市:</td>
+				<td><select name = "city">
+					<option value ="台北市">台北市</option>
+					<option value ="新北市">新北市</option>
+					<option value ="桃園市">桃園市</option>
+					<option value ="新竹市">新竹市</option>
+					<option value ="阿瓦隆">阿瓦隆</option>
+					<option value ="廁所">廁所</option>
+				</select></td>
+		</tr> 
+		
+		<tr>
+			<td colspan = "2"> <input type = "submit" value ="提交註冊"/>
+		</tr>
+  	</table>
+  </form>
+</body>
+</html>
